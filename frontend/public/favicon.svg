@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#6366f1"/>
+
+  <!-- Van body -->
+  <rect x="12" y="45" width="62" height="28" rx="5" fill="#fff"/>
+
+  <!-- Van windshield -->
+  <polygon points="44,45 74,45 74,35 52,35" fill="#c7d2fe"/>
+
+  <!-- Van front cabin -->
+  <rect x="62" y="35" width="12" height="10" rx="2" fill="#fff"/>
+
+  <!-- Wheels -->
+  <circle cx="28" cy="74" r="7" fill="#1e1b4b"/>
+  <circle cx="28" cy="74" r="3.5" fill="#a5b4fc"/>
+  <circle cx="62" cy="74" r="7" fill="#1e1b4b"/>
+  <circle cx="62" cy="74" r="3.5" fill="#a5b4fc"/>
+
+  <!-- Cross on van side -->
+  <rect x="28" y="51" width="3" height="14" rx="1" fill="#6366f1"/>
+  <rect x="23" y="56" width="13" height="3" rx="1" fill="#6366f1"/>
+
+  <!-- Location pin on top -->
+  <circle cx="80" cy="22" r="9" fill="#f59e0b"/>
+  <path d="M80 13 C75 13 71 17 71 22 C71 28 80 36 80 36 C80 36 89 28 89 22 C89 17 85 13 80 13Z" fill="#f59e0b"/>
+  <circle cx="80" cy="22" r="4" fill="#fff"/>
+</svg>

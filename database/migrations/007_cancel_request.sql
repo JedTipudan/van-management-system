@@ -1,0 +1,2 @@
+ALTER TABLE bookings ADD COLUMN IF NOT EXISTS cancel_requested BOOLEAN DEFAULT false;
+ALTER TABLE bookings ADD COLUMN IF NOT EXISTS cancel_reason TEXT;
